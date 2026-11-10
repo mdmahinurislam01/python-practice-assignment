@@ -26,3 +26,4 @@ else:
     print(f"\nStudent Name: {name}")
     print(f"Average Marks: {average:.2f}")
     print(f"Final Grade: {grade}")
+    
